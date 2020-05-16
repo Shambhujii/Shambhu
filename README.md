@@ -1,2 +1,2 @@
 # [Convolutional Neural Networks](https://www.facebook.com/shambhujii/)
-AI,ML &amp; DL
+Welcome to my Course on CNN! In this course, you will implement convolutional (CONV) and pooling (POOL) layers in numpy, including both forward propagation and (optionally) backward propagation.
